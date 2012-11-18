@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=altura\ largura\ cor
+comment0.target=CarroCameleao(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ desenha()
+comment2.params=velo
+comment2.target=void\ move(int)
+comment3.params=
+comment3.target=void\ mudaCor()
+comment4.params=
+comment4.target=void\ voltaCor()
+comment5.params=veloCrescer
+comment5.target=void\ crescer(int)
+comment6.params=veloDecrescer
+comment6.target=void\ decrescer(int)
+comment7.params=angulo
+comment7.target=void\ rotacionar(int)
+comment8.params=janela
+comment8.target=void\ vidro(java.lang.String)
+numComments=9

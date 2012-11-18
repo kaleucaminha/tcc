@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=outraCor\ xVeloc
+comment0.target=Bicicleta(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ andaParaTras()
+comment2.params=
+comment2.target=void\ andaFrente()
+comment3.params=nVelocidade
+comment3.target=void\ acelera(int)
+comment4.params=
+comment4.target=void\ trocaCor()
+comment5.params=
+comment5.target=void\ rodandoNaPista()
+comment6.params=
+comment6.target=void\ chamarAtencao()
+comment7.params=
+comment7.target=void\ desenha()
+numComments=8

@@ -1,4 +1,8 @@
-class Carro {
+/**
+ * Carro para primeiro exemplo
+ * de construção de uma classe.
+ */
+class Carro1 {
 
     int posicaoX;
     double quantGasolina; 
@@ -6,7 +10,7 @@ class Carro {
     char tipoVeiculo;
     String cor;
     
-    Carro(){
+    Carro1(){
         posicaoX = 20;
         quantGasolina = 40.00;
         estaLigado = false;

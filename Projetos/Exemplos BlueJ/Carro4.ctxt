@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=parametroTipoVeiculo
+comment0.target=Carro4(char)
+comment1.params=
+comment1.target=void\ andaFrente()
+comment2.params=
+comment2.target=void\ andaDireita()
+comment3.params=
+comment3.target=void\ liga()
+comment4.params=
+comment4.target=void\ pintaVerde()
+comment5.params=
+comment5.target=void\ animacaoCarroAndando()
+comment6.params=
+comment6.target=void\ desenha()
+numComments=7

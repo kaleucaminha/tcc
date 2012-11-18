@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=nVelocidade\ coronibus
+comment0.target=Onibus(int,\ java.lang.String)
+comment1.params=corroda2
+comment1.target=void\ MudaCorRoda(java.lang.String)
+comment10.params=
+comment10.target=void\ desenho()
+comment2.params=coronibus
+comment2.target=void\ MudaCorOnibus(java.lang.String)
+comment3.params=corjanela
+comment3.target=void\ MudaCorJanela(java.lang.String)
+comment4.params=corceun
+comment4.target=void\ MudaCorCeu(java.lang.String)
+comment5.params=
+comment5.target=void\ andaParaCima()
+comment6.params=
+comment6.target=void\ andaParaBaixo()
+comment7.params=
+comment7.target=void\ andaParaTras()
+comment8.params=
+comment8.target=void\ andaParaFrente()
+comment9.params=
+comment9.target=void\ Noite()
+numComments=11

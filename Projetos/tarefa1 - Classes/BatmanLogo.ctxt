@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BatmanLogo()
+comment1.params=nesp\ numi
+comment1.target=void\ anima(int,\ int)
+comment2.params=
+comment2.target=void\ loop()
+comment3.params=angulo
+comment3.target=void\ rotaciona(int)
+comment4.params=nesp
+comment4.target=void\ desligaLuz(int)
+comment5.params=nesp
+comment5.target=void\ ligaLuz(int)
+comment6.params=
+comment6.target=void\ desenho()
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nVelocidade
+comment0.target=Boliche(int)
+comment1.params=
+comment1.target=void\ animacaoCompleta()
+comment2.params=
+comment2.target=void\ girandoNaPista()
+comment3.params=
+comment3.target=void\ pinoCaindo()
+comment4.params=
+comment4.target=void\ desenhaCenario()
+comment5.params=
+comment5.target=void\ desenha()
+numComments=6
