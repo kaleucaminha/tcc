@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GuerraEspacial()
+comment1.params=
+comment1.target=void\ loop()
+comment2.params=
+comment2.target=void\ processaAsteroides()
+comment3.params=
+comment3.target=void\ processaTiros()
+comment4.params=
+comment4.target=void\ lancaTiros()
+comment5.params=
+comment5.target=void\ desenha()
+comment6.params=
+comment6.target=void\ removeObjetosNaoUtilizados()
+numComments=7

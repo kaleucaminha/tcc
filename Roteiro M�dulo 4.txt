@@ -1,0 +1,35 @@
+Roteiro Módulo 4 - Arquitetura de Software
+--------------------------------------------------------------
+O objetivo do módulo 4 é demonstrar que usando padrões de codificação simples é possível construir uma estrutura que permite o crescimento de um software de modo fácil.
+
+Estes padrões podem estar definidos em classes que serão extendidas ou mesmo serem definidos pelos programadores (Sem que os alunos saibam, isto é uma introdução ao uso de classes Interface e de frameworks, assunto do módulo 5).
+
+Primeira Parte - Modelando uma Arquitetura Escalável
+Classes referentes às fases
+Classes referentes aos objetos do jogo
+Organização por pacotes
+
+Construindo as classes Base
+Inicialmente, começa-se por onde os alunos já tem bastante familiaridade que são as classes base dos objetos do jogo. Assim, eles vão tomando conhecimento do projeto que contém 11 classes sem susto
+
+As Fases
+Cada fase tem uma estrutura básica com os métodos "loop()", "desenha()" e "proximaFase()";
+Cada fase é muito parecida com a classe GuerraEspacial do módulo 3. De modo que eles também tem bastante familiaridade com elas.
+
+Main
+Compartilhamento de objetos entre fases
+Referência - Aqui deve ficar muito claro qual o problema de fazer new Personagem1() dentro de cada fase.
+
+Cenários
+A novidade do Aljava neste módulo é o uso de Cenários. 
+As classes envolvidas são mais complexas e devem ser apresentadas com cuidado.
+
+Gerenciamento de Fases
+Aqui usa-se a classe GerenciadorFases para explicar o uso de variáveis e métodos estáticos, bem como demosntrar o uso da estrutura HashMap.
+
+Bem..acabou.
+
+
+
+
+

@@ -1,0 +1,38 @@
+Roteiro Módulo 3.
+------------------------------
+
+Modelagem Básica
+Jogo Guerra Espacial - Modelagem das classes com as respectivas variáveis de objeto
+Criação da Estrutura Básica da Classe Nave usando x, y, largura e altura
+
+Lógica do Jogo
+Criação da Classe Jogo com um objeto nave.
+Movimentação da Nave Via Teclado.
+Asteroides Como Retangulos Caindo....
+
+Herança
+Classe Asteroide que extende retangulo com método processa();
+Uso da Classe Asteroide ao invés da classe Retangulo;
+Transformação da classe nave em extends
+
+Listas
+Inclusão de dois asteroides
+Uso de Listas para os asteróides.
+
+Colisão
+Colisão dos asteroides e finalização do jogo
+
+Tiros e Métodos com Retorno
+Classe Tiro
+Porque quem controle o tiro é o jogo e não a Nave?
+Métodos com Retorno -> Recuperando o X da nave e fazendo o método pegaXTiro();
+Desenhando os Tiros
+Colisão dos asteroides com os Tiros
+Vitória da Nave
+
+Bônus Classe ContadorTempo
+Aumentando a dificuldade com o passar do tempo
+
+Bônus 2 Pacote de Mídia
+Usando Sons e Imagens
+

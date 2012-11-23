@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JogoDaVelha2()
+comment1.params=
+comment1.target=void\ loop()
+comment2.params=
+comment2.target=void\ processaMouse()
+comment3.params=
+comment3.target=void\ verificaVitoria()
+comment4.params=c1\ c2\ c3
+comment4.target=void\ verificaVitoria3Casas(int,\ int,\ int)
+comment5.params=
+comment5.target=void\ verificaEmpate()
+comment6.params=
+comment6.target=void\ reinicia()
+comment7.params=
+comment7.target=void\ desenha()
+comment8.params=
+comment8.target=void\ desenhaCasinhas()
+numComments=9

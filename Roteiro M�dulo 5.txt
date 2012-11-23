@@ -1,0 +1,11 @@
+Roteiro Módulo 5 - Frameworks
+
+O módulo 5 tem 4 desafios - Polimorfismo, Classes Abstratas, Classes Interface e Frameworks.
+
+Para cada um deles é usado o seguinte método:
+Classes Iterface - Usadas para documentar o padrão das fases.
+Classes Abstratas - Classe ObjetoJogo que extende um retangulo e tem como método abstrato o método step
+Polimorfismo - A inclusão de ítens de poder/vida/morte dentro de um jogo, sendo que todos estão juntos em uma única lista.
+Frameworks - Construção e uso de um pequeno framework que controla o fluxo principal do jogo facilitando a troca de fases e execução dos objetos.
+
+
